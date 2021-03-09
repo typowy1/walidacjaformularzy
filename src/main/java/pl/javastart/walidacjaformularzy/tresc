@@ -1,0 +1,9 @@
+Treść zadania
+
+Stwórz prosty formularz w Spring MVC oraz dodaj do jego pól walidację. Możesz np dodać formularz do dodawania wydatku i takie pola jak:
+
+    nazwa - nie może być pusta
+    wartość - nie może być pusta i nie może być ujemna
+
+https://bootcamp.javastart.pl/konto/cwiczenie/1444
+https://www.youtube.com/watch?v=K0ZmvLoVYfE
